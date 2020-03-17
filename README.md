@@ -3,7 +3,7 @@
 |Session|Presenter|Commited|
 |---|---|---|
 |Integration Patterns with Azure Functions | Daniel Larsen |&#x2611;|
-|Build cloud agnostic apps using the Serverless Framework | Desiree Suligan |&#x2612;|
+|Build cloud agnostic apps using the Serverless Framework | Desiree Suligan |&#x2611;|
 |BizTalk 2020 - The good and the bad | Colin Dijkgraaf|&#x2611;|
 |Security options - AIS | Vinnie James|&#x2611;|
 |Eventing in Azure | Jeffrey Chilberto|&#x2611;|
